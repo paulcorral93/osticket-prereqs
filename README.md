@@ -46,7 +46,7 @@ Using Remote Desktop, log in to the Virtual Machine (VM) with the IP address and
 <img width="1116" height="593" alt="Screenshot 2026-08-10 193129" src="https://github.com/user-attachments/assets/538d0c0e-9ce1-4ca5-8eba-5056ec186e80" />
 </p>
 <p>
-Inside the VM, bring up the Control Panel to enable/install IIS (Internet Information Services) with CGI ().
+Inside the VM, bring up the Control Panel to enable/install IIS (Internet Information Services) with CGI.
 </p>
 <br />
 

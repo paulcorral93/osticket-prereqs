@@ -1,4 +1,4 @@
-<p align="center">
+ <p align="center">
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
@@ -28,7 +28,7 @@ osTicket is a free, open-source customer support and helpdesk ticketing system f
 
 </p>
 <p>
-Log in to Azure and create a virtual machine running Windows 11. 
+Log in to Azure and create a virtual machine running Windows 11. If you need a guide on how to create a Virtual Machine, I created a guide for that as well you can find it here: (https://github.com/paulcorral93/How-to-create-a-Virtual-Machine)
     
 </p>
 <br />

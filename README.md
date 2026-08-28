@@ -344,3 +344,57 @@ osTicket is a free, open-source customer support and helpdesk ticketing system f
 25. Click Finish, but make sure the box for "launch SQL instance configuration wizard" is checked.
 </p> 
 <br /> 
+
+<p>
+<img width="497" height="457" alt="image" src="https://github.com/user-attachments/assets/cedb819b-5340-4126-a3a7-f77ba8decd83" />
+
+</p>
+<p>
+25. Click Yes.
+</p> 
+<br /> 
+
+<p>
+<img width="525" height="385" alt="image" src="https://github.com/user-attachments/assets/8cc9bcaf-d594-4c37-98c7-5f185c9c7325" />
+
+</p>
+<p>
+25. After the configuration window opens, click "Next".
+</p> 
+<br /> 
+
+<p>
+<img width="517" height="397" alt="image" src="https://github.com/user-attachments/assets/058e7f92-b8f9-4240-a982-a9a9fcc37f4f" />
+
+</p>
+<p>
+25. Select "Standard Configuration"
+</p> 
+<br /> 
+
+<p>
+<img width="525" height="389" alt="image" src="https://github.com/user-attachments/assets/084445a5-b4f6-4dac-bb45-8a9eafd9ce5a" />
+
+</p>
+<p>
+25. Click "Next".
+</p> 
+<br /> 
+
+<p>
+<img width="502" height="385" alt="image" src="https://github.com/user-attachments/assets/60d26281-cd22-4b83-b2be-a9ee6abdee4a" />
+
+</p>
+<p>
+25. Make sure to put in "root" for the password and then click "Next".
+</p> 
+<br /> 
+
+<p>
+<img width="515" height="395" alt="image" src="https://github.com/user-attachments/assets/c5fdeeb8-2cc7-49c2-b454-cca885ea7613" />
+
+</p>
+<p>
+25. Click "Execute"
+</p> 
+<br /> 

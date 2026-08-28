@@ -269,42 +269,78 @@ osTicket is a free, open-source customer support and helpdesk ticketing system f
 
 </p>
 <p>
-25. Click "I Agree" and "Install". 
+28. Click "I Agree" and "Install". 
 </p> 
 <br /> 
 
 <p>
-<img width="500" height="317" alt="image" src="https://github.com/user-attachments/assets/88ed1dea-9e9a-4e79-91d8-2640a767614b" />
+<img width="486" height="417" alt="image" src="https://github.com/user-attachments/assets/645bd27a-e97f-49aa-a8ba-2231e07eca71" />
 
 </p>
 <p>
-25. Click "I Agree" and "Install". 
+29. Click "Yes."  
 </p> 
 <br /> 
 
 <p>
-<img width="500" height="317" alt="image" src="https://github.com/user-attachments/assets/88ed1dea-9e9a-4e79-91d8-2640a767614b" />
+<img width="1152" height="616" alt="image" src="https://github.com/user-attachments/assets/2729d788-4dba-442f-8895-f1047ed7b2d8" />
 
 </p>
 <p>
-25. Click "I Agree" and "Install". 
+30. From the “osTicket-Installation-Files” folder we have been using, click to install MySQL 5.5.62 (mysql-5.5.62-win32.msi)
 </p> 
 <br /> 
 
 <p>
-<img width="500" height="317" alt="image" src="https://github.com/user-attachments/assets/88ed1dea-9e9a-4e79-91d8-2640a767614b" />
+<img width="526" height="406" alt="image" src="https://github.com/user-attachments/assets/aaf09a69-df6d-4dcb-9725-0b44695d1570" />
 
 </p>
 <p>
-25. Click "I Agree" and "Install". 
+31. Click "Next". 
 </p> 
 <br /> 
 
 <p>
-<img width="500" height="317" alt="image" src="https://github.com/user-attachments/assets/88ed1dea-9e9a-4e79-91d8-2640a767614b" />
+<img width="510" height="390" alt="image" src="https://github.com/user-attachments/assets/df433602-c898-4c45-b770-f2e7fe2b4ad1" />
 
 </p>
 <p>
-25. Click "I Agree" and "Install". 
+32. Click "I Agree" and "Next". 
+</p> 
+<br /> 
+
+<p>
+<img width="1152" height="596" alt="image" src="https://github.com/user-attachments/assets/483199e0-2784-436c-aec9-3e5643a3dac2" />
+
+</p>
+<p>
+33. Select "Typical Setup"
+</p> 
+<br /> 
+
+<p>
+<img width="608" height="427" alt="image" src="https://github.com/user-attachments/assets/efa46e72-fd7d-4a2d-bf36-a3a38e3ad1fa" />
+
+</p>
+<p>
+34. Click "Install".
+</p> 
+<br /> 
+
+<p>
+<img width="476" height="409" alt="image" src="https://github.com/user-attachments/assets/97572a96-412b-471d-baa1-f8cfca1d404d" />
+
+</p>
+<p>
+35. Click "Yes". 
+</p> 
+<br /> 
+
+<p>
+<img width="645" height="464" alt="image" src="https://github.com/user-attachments/assets/51b77b2f-0b50-478a-a745-f3bc0cba7e90" />
+
+</p>
+<p>
+25. Click Finish, but make sure the box for "launch SQL instance configuration wizard" is checked.
 </p> 
 <br /> 

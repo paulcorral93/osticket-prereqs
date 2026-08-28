@@ -240,10 +240,71 @@ osTicket is a free, open-source customer support and helpdesk ticketing system f
 <br /> 
 
 <p>
- <img width="498" height="408" alt="image" src="https://github.com/user-attachments/assets/178dfe39-5c5e-4a88-ae66-d733ebaf7f1e" />
+<img width="1217" height="703" alt="image" src="https://github.com/user-attachments/assets/ea93d29a-0dd6-4468-bb74-b8af2115869c" />
 
 </p>
 <p>
-25. C
+25. From the “osTicket-Installation-Files” folder in the Virtual Machine. 
+</p> 
+<br /> 
+
+<p>
+<img width="1204" height="649" alt="image" src="https://github.com/user-attachments/assets/3a71fbf7-18f9-4076-ac67-90bfc9271f73" />
+
+</p>
+<p>
+26. Unzip PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) into the “C:\PHP” folder</p> 
+<br /> 
+
+<p>
+<img width="1137" height="625" alt="image" src="https://github.com/user-attachments/assets/39b39b1c-8294-462a-b65b-176e335380ea" />
+
+</p>
+<p>
+27. From the “osTicket-Installation-Files” folder, install VC_redist.x86.exe.
+<br /> 
+
+<p>
+<img width="500" height="317" alt="image" src="https://github.com/user-attachments/assets/88ed1dea-9e9a-4e79-91d8-2640a767614b" />
+
+</p>
+<p>
+25. Click "I Agree" and "Install". 
+</p> 
+<br /> 
+
+<p>
+<img width="500" height="317" alt="image" src="https://github.com/user-attachments/assets/88ed1dea-9e9a-4e79-91d8-2640a767614b" />
+
+</p>
+<p>
+25. Click "I Agree" and "Install". 
+</p> 
+<br /> 
+
+<p>
+<img width="500" height="317" alt="image" src="https://github.com/user-attachments/assets/88ed1dea-9e9a-4e79-91d8-2640a767614b" />
+
+</p>
+<p>
+25. Click "I Agree" and "Install". 
+</p> 
+<br /> 
+
+<p>
+<img width="500" height="317" alt="image" src="https://github.com/user-attachments/assets/88ed1dea-9e9a-4e79-91d8-2640a767614b" />
+
+</p>
+<p>
+25. Click "I Agree" and "Install". 
+</p> 
+<br /> 
+
+<p>
+<img width="500" height="317" alt="image" src="https://github.com/user-attachments/assets/88ed1dea-9e9a-4e79-91d8-2640a767614b" />
+
+</p>
+<p>
+25. Click "I Agree" and "Install". 
 </p> 
 <br /> 

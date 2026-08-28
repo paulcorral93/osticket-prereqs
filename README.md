@@ -28,7 +28,7 @@ osTicket is a free, open-source customer support and helpdesk ticketing system f
 
 </p>
 <p>
-1. Log in to Azure and create a virtual machine running Windows 11. If you need a guide on how to create a Virtual Machine, I created a guide for that as well you can find it here: (https://github.com/paulcorral93/How-to-create-a-Virtual-Machine)
+1. Log in to Azure and create a virtual machine running Windows 11. If you need a guide on how to create a Virtual Machine, I created a guide for that as well; you can find it here: (https://github.com/paulcorral93/How-to-create-a-Virtual-Machine)
 </p>
 <br />
 
@@ -67,3 +67,101 @@ osTicket is a free, open-source customer support and helpdesk ticketing system f
 5. Copy the link above into a browser inside the Virtual Machine you created and download the ZIP file; it will have all the installation files you will need ahead.  
 </p>
 <br />
+
+<p>
+<img width="851" height="790" alt="image" src="https://github.com/user-attachments/assets/45e4972a-8edd-4326-b9e4-f368daa06358" />
+
+</p>
+<p>
+6. Open the Start menu and search for "File Explorer". Once opened, expand the Downloads folder.
+</p> 
+<br /> 
+
+<p>
+<img width="1155" height="750" alt="image" src="https://github.com/user-attachments/assets/2ae3d42f-9c08-4de0-9458-6dde0e778c06" />
+
+</p>
+<p>
+7. We are now going to extract the ZIP folder we downloaded to the desktop. this will make the installtion easier. Right click the ZIP file to bring up the small window and select "Extract All".
+</p> 
+<br /> 
+
+<p>
+<img width="1155" height="604" alt="image" src="https://github.com/user-attachments/assets/75ca882a-7d7a-42b4-82b7-7b0ea55f0ac3" />
+
+</p>
+<p>
+8. Select the "Browse" box.   
+</p> 
+<br /> 
+
+<p>
+<img width="1167" height="636" alt="image" src="https://github.com/user-attachments/assets/43cca36f-5d94-4cc8-8250-8e8aa2b65591" />
+
+</p>
+<p>
+9. Click Desktop on the left side of the window. Click on Select Folder to finalize 
+</p> 
+<br /> 
+
+<p>
+<img width="1198" height="630" alt="image" src="https://github.com/user-attachments/assets/2df19fd5-5b77-4670-ad06-9f7a8951b809" />
+
+</p>
+<p>
+10. The files Should now be on your desktop of the Virtual Machine.
+</p> 
+
+<p>
+<img width="1089" height="691" alt="image" src="https://github.com/user-attachments/assets/2e76ac38-e869-489d-8e60-ee4a1e3ac58a" />
+
+</p>
+<p>
+11. Next we will install/enable IIS (Internet Information Services) on Windows with CGI on the Virtual Machine. Open the Start menu and search for the "control Panel" and run the program.
+</p> 
+<br /> 
+
+<p>
+<img width="1298" height="694" alt="image" src="https://github.com/user-attachments/assets/4f2373c8-c09f-4a46-9d17-11d8bb59e2d6" />
+
+</p>
+<p>
+12. CLick on "Programs" tab.
+</p> 
+<br /> 
+
+<p>
+<img width="1253" height="619" alt="image" src="https://github.com/user-attachments/assets/371343bf-ea6c-4b06-8d8c-8d0ab8050b65" />
+
+</p>
+<p>
+13. Click on "Turn Windows features on/off"
+</p> 
+<br /> 
+
+<p>
+<img width="1288" height="741" alt="image" src="https://github.com/user-attachments/assets/317d093c-51ef-4018-a17d-9acb11d5f175" />
+ 
+</p>
+<p>
+14. Make sure the boxes for the following are selected: Select Internet Information Services, Expand Internet Information Services, Expand World Wide Web Services, Expand Application Developement Features, Select CGI. Click "Ok"
+</p> 
+<br /> 
+
+<p>
+<img width="1130" height="599" alt="image" src="https://github.com/user-attachments/assets/067a9ecf-12b0-458d-9812-48e52200ae5e" />
+ 
+</p>
+<p>
+15. From your Virtual Machine, Open the insall files that were unzipped to the desktop earlier. The first instsallation we will run is the PHP Manager for IIS. (PHPManagerForIIS_V1.5.0.msi)
+</p> 
+<br /> 
+
+<p>
+<img width="1130" height="599" alt="image" src="https://github.com/user-attachments/assets/067a9ecf-12b0-458d-9812-48e52200ae5e" />
+ 
+</p>
+<p>
+15. From your Virtual Machine, Open the insall files that were unzipped to the desktop earlier. The first instsallation we will run is the PHP Manager for IIS. (PHPManagerForIIS_V1.5.0.msi)
+</p> 
+<br /> 

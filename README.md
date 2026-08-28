@@ -194,11 +194,48 @@ osTicket is a free, open-source customer support and helpdesk ticketing system f
 <br /> 
 
 <p>
- <img width="498" height="408" alt="image" src="https://github.com/user-attachments/assets/178dfe39-5c5e-4a88-ae66-d733ebaf7f1e" />
+<img width="1146" height="604" alt="image" src="https://github.com/user-attachments/assets/85beb19d-ea78-41ed-85e8-32c2502c39ae" />
 
 </p>
 <p>
-16. Click "Next".
+20. Now we will install the Rewrite Module (rewrite_amd64_en-US.msi)
+</p> 
+<br /> 
+
+<p>
+<img width="627" height="434" alt="image" src="https://github.com/user-attachments/assets/eaf9a580-1785-4db1-9bfd-201eaf4980e9" />
+
+</p>
+<p>
+21. Click " I accept the terms and conditions" and "Install" to begin the installation. 
+</p> 
+<br /> 
+
+<p>
+<img width="496" height="439" alt="image" src="https://github.com/user-attachments/assets/123bef27-f0ce-4182-ac1e-cdb52b063848" />
+
+</p>
+<p>
+22. Click "yes".
+</p> 
+<br /> 
+
+<p>
+<img width="1207" height="643" alt="image" src="https://github.com/user-attachments/assets/f1a90acc-f1ad-4877-a797-f23e5cb079eb" />
+
+</p>
+<p>
+23. Open "File Explorer" again; this time, we will create a new Directory in (C:). You can find it on the right side of the window under the "This PC" tab
+</p> 
+<br /> 
+
+<p>
+<img width="1151" height="594" alt="image" src="https://github.com/user-attachments/assets/6b9df21e-e993-421f-922e-7169a395e460" />
+<img width="1141" height="608" alt="image" src="https://github.com/user-attachments/assets/abc9da1b-db37-4c3d-999c-977ebf676a47" />
+
+</p>
+<p>
+24. Right-click in the window to create a new folder, name it "PHP".
 </p> 
 <br /> 
 
@@ -207,24 +244,6 @@ osTicket is a free, open-source customer support and helpdesk ticketing system f
 
 </p>
 <p>
-16. Click "Next".
-</p> 
-<br /> 
-
-<p>
- <img width="498" height="408" alt="image" src="https://github.com/user-attachments/assets/178dfe39-5c5e-4a88-ae66-d733ebaf7f1e" />
-
-</p>
-<p>
-16. Click "Next".
-</p> 
-<br /> 
-
-<p>
- <img width="498" height="408" alt="image" src="https://github.com/user-attachments/assets/178dfe39-5c5e-4a88-ae66-d733ebaf7f1e" />
-
-</p>
-<p>
-16. Click "Next".
+25. C
 </p> 
 <br /> 

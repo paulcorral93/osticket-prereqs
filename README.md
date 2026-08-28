@@ -153,15 +153,78 @@ osTicket is a free, open-source customer support and helpdesk ticketing system f
  
 </p>
 <p>
-15. From your Virtual Machine, Open the insall files that were unzipped to the desktop earlier. The first instsallation we will run is the PHP Manager for IIS. (PHPManagerForIIS_V1.5.0.msi)
+15. From your Virtual Machine, open the install files that were unzipped to the desktop earlier. The first installation we will run is the PHP Manager for IIS. (PHPManagerForIIS_V1.5.0.msi)
 </p> 
 <br /> 
 
 <p>
-<img width="1130" height="599" alt="image" src="https://github.com/user-attachments/assets/067a9ecf-12b0-458d-9812-48e52200ae5e" />
- 
+ <img width="498" height="408" alt="image" src="https://github.com/user-attachments/assets/178dfe39-5c5e-4a88-ae66-d733ebaf7f1e" />
+
 </p>
 <p>
-15. From your Virtual Machine, Open the insall files that were unzipped to the desktop earlier. The first instsallation we will run is the PHP Manager for IIS. (PHPManagerForIIS_V1.5.0.msi)
+16. Click "Next".
+</p> 
+<br /> 
+
+<p>
+<img width="503" height="413" alt="image" src="https://github.com/user-attachments/assets/5d447561-d62a-4394-8046-68ddec1c30d8" />
+
+</p>
+<p>
+17. Click "I Agree" then "Next"
+</p> 
+<br /> 
+
+<p>
+<img width="588" height="546" alt="image" src="https://github.com/user-attachments/assets/0e292da9-3f26-47db-b28e-6cfc59ee73c0" />
+
+</p>
+<p>
+18. Click "yes".
+</p> 
+<br /> 
+
+<p>
+<img width="522" height="414" alt="image" src="https://github.com/user-attachments/assets/6130874a-eb9d-449e-b79d-597192cb1d2b" />
+
+</p>
+<p>
+19. Close the window; the installation is done.
+</p> 
+<br /> 
+
+<p>
+ <img width="498" height="408" alt="image" src="https://github.com/user-attachments/assets/178dfe39-5c5e-4a88-ae66-d733ebaf7f1e" />
+
+</p>
+<p>
+16. Click "Next".
+</p> 
+<br /> 
+
+<p>
+ <img width="498" height="408" alt="image" src="https://github.com/user-attachments/assets/178dfe39-5c5e-4a88-ae66-d733ebaf7f1e" />
+
+</p>
+<p>
+16. Click "Next".
+</p> 
+<br /> 
+
+<p>
+ <img width="498" height="408" alt="image" src="https://github.com/user-attachments/assets/178dfe39-5c5e-4a88-ae66-d733ebaf7f1e" />
+
+</p>
+<p>
+16. Click "Next".
+</p> 
+<br /> 
+
+<p>
+ <img width="498" height="408" alt="image" src="https://github.com/user-attachments/assets/178dfe39-5c5e-4a88-ae66-d733ebaf7f1e" />
+
+</p>
+<p>
+16. Click "Next".
 </p> 
 <br /> 

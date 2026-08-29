@@ -398,3 +398,112 @@ osTicket is a free, open-source customer support and helpdesk ticketing system f
 25. Click "Execute"
 </p> 
 <br /> 
+
+<p>
+<img width="895" height="707" alt="image" src="https://github.com/user-attachments/assets/7331a0de-bd99-48f6-8112-93c3031891b8" />
+
+</p>
+<p>
+25. Click Start Menu and search for "IIS"; this time, we will open it as Administrator.
+</p> 
+<br /> 
+
+<p>
+<img width="1302" height="660" alt="image" src="https://github.com/user-attachments/assets/904ff81c-bcf3-47b0-8d20-ab66f05eb14a" />
+
+</p>
+<p>
+25. Now register PHP from within IIS. To do this, begin by clicking PHP Manager in IIS. (installed this earlier)  
+</p> 
+<br /> 
+
+<p>
+<img width="1195" height="623" alt="image" src="https://github.com/user-attachments/assets/e5b71a4e-070f-40fb-bc3d-c1f8e35e3612" />
+
+</p>
+<p>
+25. Click "Register new PHP version"
+</p> 
+<br /> 
+
+<p>
+<img width="1031" height="548" alt="image" src="https://github.com/user-attachments/assets/ae4351ec-a8f1-472e-b1c5-aba81bf4b5b5" />
+
+</p>
+<p>
+25. Click the "..." box to select the right file from the PHP folder located at C:\. 
+</p> 
+<br /> 
+
+<p>
+<img width="1083" height="585" alt="image" src="https://github.com/user-attachments/assets/9e0e4b2a-5388-4911-80d1-9a1821ea5bf2" />
+
+</p>
+<p>
+25. Click "C:\PHP\php-cgi.exe"
+</p> 
+<br /> 
+
+
+<p>
+<img width="1200" height="624" alt="image" src="https://github.com/user-attachments/assets/d31765a6-aed1-4a78-bc28-0208c02d8787" />
+
+</p>
+<p>
+25. Head back to the IIS homepage and on the right side of the window, select "Restart" to apply the changes just made.
+</p> 
+<br /> 
+
+<p>
+<img width="1143" height="609" alt="image" src="https://github.com/user-attachments/assets/592c48b6-fee8-4aa3-a4cb-7c66b1ff51e7" />
+
+</p>
+<p>
+25. Open up osTicket-Installation-Files located on the desktop of the Virtual Machine. Within “c:\inetpub\wwwroot”. Rename “upload” to “osTicket”
+</p> 
+<br /> 
+
+<p>
+<img width="1187" height="637" alt="image" src="https://github.com/user-attachments/assets/e97a2927-30ea-4e94-bd19-49a47212e136" />
+
+</p>
+<p>
+25.  Extract “osTicket-v1.15.8.zip” into “c:\inetpub\wwwroot”.
+</p> 
+<br /> 
+
+<p>
+<img width="1187" height="637" alt="image" src="https://github.com/user-attachments/assets/e97a2927-30ea-4e94-bd19-49a47212e136" />
+
+</p>
+<p>
+25.  Extract “osTicket-v1.15.8.zip” into “c:\inetpub\wwwroot”.
+</p> 
+<br /> 
+
+<p>
+<img width="1187" height="637" alt="image" src="https://github.com/user-attachments/assets/e97a2927-30ea-4e94-bd19-49a47212e136" />
+
+</p>
+<p>
+25.  Extract “osTicket-v1.15.8.zip” into “c:\inetpub\wwwroot”.
+</p> 
+<br /> 
+
+<p>
+<img width="1187" height="637" alt="image" src="https://github.com/user-attachments/assets/e97a2927-30ea-4e94-bd19-49a47212e136" />
+
+</p>
+<p>
+25.  Extract “osTicket-v1.15.8.zip” into “c:\inetpub\wwwroot”.
+</p> 
+<br /> 
+
+<p>
+<img width="1187" height="637" alt="image" src="https://github.com/user-attachments/assets/e97a2927-30ea-4e94-bd19-49a47212e136" />
+
+</p>
+<p>
+25.  Extract “osTicket-v1.15.8.zip” into “c:\inetpub\wwwroot”.
+</p> 
+<br /> 

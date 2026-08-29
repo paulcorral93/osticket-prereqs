@@ -459,7 +459,7 @@ osTicket is a free, open-source customer support and helpdesk ticketing system f
 
 </p>
 <p>
-25. Open up osTicket-Installation-Files located on the desktop of the Virtual Machine. Within “c:\inetpub\wwwroot”. Rename “upload” to “osTicket”
+25. Open up osTicket-Installation-Files located on the desktop of the Virtual Machine. Within “c:\inetpub\wwwroot”.
 </p> 
 <br /> 
 
@@ -473,11 +473,12 @@ osTicket is a free, open-source customer support and helpdesk ticketing system f
 <br /> 
 
 <p>
-<img width="1187" height="637" alt="image" src="https://github.com/user-attachments/assets/e97a2927-30ea-4e94-bd19-49a47212e136" />
+<img width="1141" height="603" alt="image" src="https://github.com/user-attachments/assets/e79d2ce9-8805-4c64-825b-2e1c5524c06f" />
 
 </p>
 <p>
-25.  Extract “osTicket-v1.15.8.zip” into “c:\inetpub\wwwroot”.
+25.   Inside “c:\inetpub\wwwroot” rename “upload” to “osTicket”
+ 
 </p> 
 <br /> 
 
@@ -486,7 +487,7 @@ osTicket is a free, open-source customer support and helpdesk ticketing system f
 
 </p>
 <p>
-25.  Extract “osTicket-v1.15.8.zip” into “c:\inetpub\wwwroot”.
+25.  Go back to IIS and restart the program after the files are finished extracting.
 </p> 
 <br /> 
 

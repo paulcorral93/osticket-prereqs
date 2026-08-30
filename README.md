@@ -832,41 +832,93 @@ New Permissions -> Everyone -> All
 <br /> 
 
 <p>
-<img width="1572" height="808" alt="image" src="https://github.com/user-attachments/assets/2dc1cf35-7e41-474c-a52d-a34194f8d4be" />
+<img width="618" height="484" alt="image" src="https://github.com/user-attachments/assets/195a0fc0-bc16-46a9-80be-225b2c3125a0" />
 
 </p>
 <p>
-25. Click Next until you can finally install
+25. Click Finish and Skip the donate page
  
 </p> 
 <br /> 
 
 <p>
-<img width="1572" height="808" alt="image" src="https://github.com/user-attachments/assets/2dc1cf35-7e41-474c-a52d-a34194f8d4be" />
+<img width="1243" height="664" alt="image" src="https://github.com/user-attachments/assets/ffd6c3ae-64e7-4d6d-a829-7a0f21239df4" />
 
 </p>
 <p>
-25. Click Next until you can finally install
+25. Open HeidiSQL and create a new session
+
+
  
 </p> 
 <br /> 
 
 <p>
-<img width="1572" height="808" alt="image" src="https://github.com/user-attachments/assets/2dc1cf35-7e41-474c-a52d-a34194f8d4be" />
+<img width="1250" height="669" alt="image" src="https://github.com/user-attachments/assets/7cda740f-abcd-41ea-8d23-800584c40bdf" />
 
 </p>
 <p>
-25. Click Next until you can finally install
+25.  Username should be root, and make the password root as well then click Open
  
 </p> 
 <br /> 
 
 <p>
-<img width="1572" height="808" alt="image" src="https://github.com/user-attachments/assets/2dc1cf35-7e41-474c-a52d-a34194f8d4be" />
+<img width="957" height="611" alt="image" src="https://github.com/user-attachments/assets/e478f136-0b97-4ad9-87ca-8c2e225a36e8" />
 
 </p>
 <p>
-25. Click Next until you can finally install
+25. This will connect to the session; in this window, you will create a database for osTicket.
+ 
+</p> 
+<br /> 
+
+<p>
+<img width="972" height="619" alt="image" src="https://github.com/user-attachments/assets/6ef2c3d7-2c85-4949-b9ae-66fdc1e7bf16" />
+
+</p>
+<p>
+25. Right-click on Unnamed on the left side of the window and create a database called “osTicket”; it has to be exact
+ 
+</p> 
+<br /> 
+
+<p>
+<img width="336" height="276" alt="image" src="https://github.com/user-attachments/assets/127f9238-42d2-41ce-a1e8-78cf5b437549" />
+
+</p>
+<p>
+25. Type "osTicket" for the name and then Ok
+ 
+</p> 
+<br /> 
+
+<p>
+<img width="1080" height="786" alt="image" src="https://github.com/user-attachments/assets/1108734c-0641-48cb-9573-819d7cddc6c9" />
+
+</p>
+<p>
+25. osTicket should now be operational
+ 
+</p> 
+<br /> 
+
+<p>
+<img width="1046" height="763" alt="image" src="https://github.com/user-attachments/assets/6205f778-f1ea-4f48-bd37-2fea8572ead1" />
+
+</p>
+<p>
+25. This page is to log into osTicket as an admin: http://localhost/osTicket/scp/login.php
+ 
+</p> 
+<br /> 
+
+<p>
+<img width="1047" height="757" alt="image" src="https://github.com/user-attachments/assets/26804983-c529-46a4-84fc-d4d9ef9fc443" />
+
+</p>
+<p>
+25. This site will be where Users can send tickets to the osticket system: http://localhost/osTicket/
  
 </p> 
 <br /> 

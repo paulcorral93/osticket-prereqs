@@ -585,24 +585,24 @@ osTicket is a free, open-source customer support and helpdesk ticketing system f
 
 
 <p>
-<img width="1207" height="625" alt="image" src="https://github.com/user-attachments/assets/9cb79c96-6348-4973-8a3e-0ec070b9830f" />
+<img width="1204" height="621" alt="image" src="https://github.com/user-attachments/assets/257b6ce3-2103-49c5-bc5e-b396718e7c66" />
 
 </p>
 <p>
-25.  Enable: php_imap.dll
-Enable: php_intl.dll
-Enable: php_opcache.dll
+25. Refresh IIS for the home window 
 
 </p> 
 <br /> 
 
 
 <p>
-<img width="1187" height="637" alt="image" src="https://github.com/user-attachments/assets/e97a2927-30ea-4e94-bd19-49a47212e136" />
+<img width="1051" height="789" alt="image" src="https://github.com/user-attachments/assets/0b9eeb49-9b3d-4d64-8d71-974a86c53161" />
+<img width="1059" height="787" alt="image" src="https://github.com/user-attachments/assets/ca2067d7-45d7-433d-82a1-d19e6a476196" />
 
 </p>
 <p>
-25.  Refresh the osTicket site in your browser, observe the changes
+25.  Refresh the osTicket site in your browser, and observe the changes
+ 
 </p> 
 <br /> 
 

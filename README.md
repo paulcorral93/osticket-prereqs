@@ -606,3 +606,63 @@ osTicket is a free, open-source customer support and helpdesk ticketing system f
 </p> 
 <br /> 
 
+<p>
+<img width="1168" height="631" alt="image" src="https://github.com/user-attachments/assets/737f718a-3116-485d-8ea6-a8b3782ef25f" />
+
+</p>
+<p>
+25. Using File Explorer, open the inetpub folder in Windows (C:)
+
+</p> 
+<br /> 
+<p>
+<img width="1140" height="609" alt="image" src="https://github.com/user-attachments/assets/52775ca5-07bf-491f-836a-b2bf65275a1a" />
+
+</p>
+<p>
+25.  Open the wwwroot folder
+
+
+</p> 
+<br /> 
+
+<p>
+<img width="1169" height="616" alt="image" src="https://github.com/user-attachments/assets/b9de8a62-2c25-4091-a1de-085062c54e92" />
+
+</p>
+<p>
+25. Open the osTicket Folder.
+
+</p> 
+<br /> 
+
+<p>
+<img width="1171" height="605" alt="image" src="https://github.com/user-attachments/assets/5fb22ae0-bbbf-41ff-b620-ffc078e2978e" />
+
+</p>
+<p>
+25. Open the include folder 
+
+</p> 
+<br /> 
+
+<p>
+<img width="1161" height="597" alt="image" src="https://github.com/user-attachments/assets/b4743b39-f367-4560-bf34-1bfe6be54a2b" />
+<img width="1147" height="610" alt="image" src="https://github.com/user-attachments/assets/97d4abbf-487f-4e3f-a1a9-0245d0d4d3c3" />
+
+</p>
+<p>
+25. Rename the "ost-sampleconfig.php" file to "ost-config.php"
+
+</p> 
+<br /> 
+
+<p>
+<img width="1204" height="621" alt="image" src="https://github.com/user-attachments/assets/257b6ce3-2103-49c5-bc5e-b396718e7c66" />
+
+</p>
+<p>
+25. Refresh IIS for the home window 
+
+</p> 
+<br /> 

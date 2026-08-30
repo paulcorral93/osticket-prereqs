@@ -545,10 +545,44 @@ osTicket is a free, open-source customer support and helpdesk ticketing system f
 
 </p>
 <p>
-25.  Under PHP Extentions click “Enable or disable an extension”
+25.  Under PHP Extensions, click “Enable or disable an extension”
 
 </p> 
 <br /> 
+
+<p>
+<img width="1197" height="625" alt="image" src="https://github.com/user-attachments/assets/17d962b4-ff41-4251-a605-6a7ea1422ca4" />
+
+</p>
+<p>
+25.  Click php_imap.dll; on the right side of the window, click Enable 
+
+
+</p> 
+<br /> 
+
+<p>
+<img width="1206" height="634" alt="image" src="https://github.com/user-attachments/assets/79a5ff91-f9aa-448c-902e-3b5f1efa2674" />
+
+</p>
+<p>
+25. Click php_intl.dll; on the right side of the window, click Enable 
+
+
+</p> 
+<br /> 
+
+
+<p>
+<img width="1205" height="637" alt="image" src="https://github.com/user-attachments/assets/9871a6ed-30fe-4721-af46-49b5a5d57b0d" />
+
+</p>
+<p>
+25.  Click php_opcache.dll; on the right side of the window, click Enable
+
+</p> 
+<br /> 
+
 
 <p>
 <img width="1207" height="625" alt="image" src="https://github.com/user-attachments/assets/9cb79c96-6348-4973-8a3e-0ec070b9830f" />

@@ -658,11 +658,215 @@ osTicket is a free, open-source customer support and helpdesk ticketing system f
 <br /> 
 
 <p>
-<img width="1204" height="621" alt="image" src="https://github.com/user-attachments/assets/257b6ce3-2103-49c5-bc5e-b396718e7c66" />
+<img width="1146" height="616" alt="image" src="https://github.com/user-attachments/assets/0e6e1851-e2a5-4638-b227-6407ec5050db" />
 
 </p>
 <p>
-25. Refresh IIS for the home window 
+25. Assign Permissions: Right-click on the "ost-config.php" and click on Properties
+Disable inheritance -> Remove All
+New Permissions -> Everyone -> All
 
+
+</p> 
+<br /> 
+
+<p>
+<img width="476" height="548" alt="image" src="https://github.com/user-attachments/assets/f0adbb3a-373e-48e6-8cc9-6180a01062c9" />
+
+</p>
+<p>
+25. Click on the Security tab and click on Advanced in the bottom right corner 
+
+</p> 
+<br /> 
+
+<p>
+<img width="789" height="544" alt="image" src="https://github.com/user-attachments/assets/7bfa0df5-9c6d-4cde-94fb-754e5b03b7b3" />
+
+
+</p>
+<p>
+25. Click Change permissions in the bottom left corner
+
+</p> 
+<br /> 
+
+<p>
+<img width="968" height="647" alt="image" src="https://github.com/user-attachments/assets/32b318b7-92e6-4e5c-abb7-623d8d142ba6" />
+
+</p>
+<p>
+25. Click on Disable inheritance 
+
+</p> 
+<br /> 
+
+<p>
+<img width="543" height="315" alt="image" src="https://github.com/user-attachments/assets/5f27fd0b-4892-44a7-8679-6a67de3e3115" />
+
+</p>
+<p>
+25. Click Remove all inherited permissions from this object
+
+</p> 
+<br /> 
+
+<p>
+<img width="808" height="546" alt="image" src="https://github.com/user-attachments/assets/93eed650-b67c-43ec-aa97-b4b2be710d10" />
+
+</p>
+<p>
+25. Click on Add
+
+</p> 
+<br /> 
+
+<p>
+<img width="938" height="605" alt="image" src="https://github.com/user-attachments/assets/9a7d8274-a862-4830-8dfd-075547416537" />
+
+</p>
+<p>
+25. Click Select a principle 
+
+</p> 
+<br /> 
+
+<p>
+<img width="513" height="315" alt="image" src="https://github.com/user-attachments/assets/62eeda04-dcf0-447c-926a-1235b29c4fc9" />
+
+</p>
+<p>
+25. In the "Enter the object name to select" type "Everyone" and click ok
+ 
+</p> 
+<br /> 
+
+<p>
+<img width="942" height="614" alt="image" src="https://github.com/user-attachments/assets/c28b8061-bc3a-4304-b6d4-0737b5d3672c" />
+
+</p>
+<p>
+25. Click the full control box and then ok
+ 
+</p> 
+<br /> 
+
+<p>
+<img width="774" height="527" alt="image" src="https://github.com/user-attachments/assets/c26f97be-068d-4eeb-a5b5-4b772bbe5605" />
+
+</p>
+<p>
+25. Click Apply, then Ok
+ 
+</p> 
+<br /> 
+
+<p>
+<img width="1057" height="781" alt="image" src="https://github.com/user-attachments/assets/99f4e8c2-bc61-4ec5-8913-39198f12670a" />
+
+</p>
+<p>
+25. Go back to osTicket browser and click Continue
+ 
+</p> 
+<br /> 
+
+<p>
+<img width="1568" height="803" alt="image" src="https://github.com/user-attachments/assets/52afc119-4cea-4112-b2e6-502fff44305d" />
+
+</p>
+<p>
+25. This page is just your basic setup; you can name the help desk and designate an email to direct the tickets to. You can also input credentials for the Admin user
+ 
+</p> 
+<br /> 
+
+<p>
+<img width="1572" height="808" alt="image" src="https://github.com/user-attachments/assets/2dc1cf35-7e41-474c-a52d-a34194f8d4be" />
+
+</p>
+<p>
+25. Before entering the credentials for the Database Settings, create a database specific to osTicket using HediSLQ.
+ 
+</p> 
+<br /> 
+
+<p>
+<img width="1155" height="609" alt="image" src="https://github.com/user-attachments/assets/06682ce1-13ed-48d5-8078-57a565b81430" />
+
+</p>
+<p>
+25. Open the installation files folder on the Virtual Machine and run the HediSLQ installation
+ 
+</p> 
+<br /> 
+
+<p>
+<img width="521" height="435" alt="image" src="https://github.com/user-attachments/assets/2ba2e7db-2041-45c7-b336-9d01195397c4" />
+
+</p>
+<p>
+25. Click Yes
+ 
+</p> 
+<br /> 
+
+<p>
+<img width="613" height="491" alt="image" src="https://github.com/user-attachments/assets/bf0fde86-8f6b-403e-a177-8cc1e7c72e5a" />
+
+</p>
+<p>
+25. Click I Accept and next
+ 
+</p> 
+<br /> 
+
+<p>
+<img width="611" height="478" alt="image" src="https://github.com/user-attachments/assets/df6e0d2f-4de3-4265-8bc2-adecadaf7f4b" />
+
+</p>
+<p>
+25. Click Next until you can finally install
+ 
+</p> 
+<br /> 
+
+<p>
+<img width="1572" height="808" alt="image" src="https://github.com/user-attachments/assets/2dc1cf35-7e41-474c-a52d-a34194f8d4be" />
+
+</p>
+<p>
+25. Click Next until you can finally install
+ 
+</p> 
+<br /> 
+
+<p>
+<img width="1572" height="808" alt="image" src="https://github.com/user-attachments/assets/2dc1cf35-7e41-474c-a52d-a34194f8d4be" />
+
+</p>
+<p>
+25. Click Next until you can finally install
+ 
+</p> 
+<br /> 
+
+<p>
+<img width="1572" height="808" alt="image" src="https://github.com/user-attachments/assets/2dc1cf35-7e41-474c-a52d-a34194f8d4be" />
+
+</p>
+<p>
+25. Click Next until you can finally install
+ 
+</p> 
+<br /> 
+
+<p>
+<img width="1572" height="808" alt="image" src="https://github.com/user-attachments/assets/2dc1cf35-7e41-474c-a52d-a34194f8d4be" />
+
+</p>
+<p>
+25. Click Next until you can finally install
+ 
 </p> 
 <br /> 

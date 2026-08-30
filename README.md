@@ -483,7 +483,7 @@ osTicket is a free, open-source customer support and helpdesk ticketing system f
 <br /> 
 
 <p>
-<img width="1187" height="637" alt="image" src="https://github.com/user-attachments/assets/e97a2927-30ea-4e94-bd19-49a47212e136" />
+<img width="1201" height="619" alt="image" src="https://github.com/user-attachments/assets/868ccd5b-1a9f-4360-90bf-24a89cd878fa" />
 
 </p>
 <p>
@@ -492,19 +492,83 @@ osTicket is a free, open-source customer support and helpdesk ticketing system f
 <br /> 
 
 <p>
-<img width="1187" height="637" alt="image" src="https://github.com/user-attachments/assets/e97a2927-30ea-4e94-bd19-49a47212e136" />
+<img width="1213" height="641" alt="image" src="https://github.com/user-attachments/assets/7e65663f-74e0-4ab7-a367-f5ca0a574e65" />
 
 </p>
 <p>
-25.  Extract “osTicket-v1.15.8.zip” into “c:\inetpub\wwwroot”.
+25. From the IIS home window, expand the Sites tab, then expand Default Web Site, click on the osTicket folder
+
 </p> 
 <br /> 
 
 <p>
+<img width="1222" height="649" alt="image" src="https://github.com/user-attachments/assets/ea72d29b-d2b9-4a29-af23-cc0a0a16e5d7" />
+
+</p>
+<p>
+25.  On the right, click “Browse *:80”
+</p> 
+<br /> 
+
+<p>
+<img width="1059" height="790" alt="image" src="https://github.com/user-attachments/assets/5933e46a-a85b-43dc-9791-35b19d793bd7" />
+
+</p>
+<p>
+25.  This should open osTicket in your browser.
+</p> 
+<br /> 
+
+<p>
+<img width="1201" height="624" alt="image" src="https://github.com/user-attachments/assets/daf23c73-61a0-42b1-8a45-321c6ec0d27a" />
+
+</p>
+<p>
+25.  Go back to the IIS home page, expand sites, expand Default, click the osTicket folder
+
+</p> 
+<br /> 
+
+
+<p>
+<img width="1201" height="626" alt="image" src="https://github.com/user-attachments/assets/91ad78bf-6424-4d84-a53f-e390ab75d747" />
+
+</p>
+<p>
+25. Click PHP Manager 
+
+</p> 
+<br /> 
+
+<p>
+<img width="1207" height="625" alt="image" src="https://github.com/user-attachments/assets/da19e191-b598-40c0-b8b5-c3814feaae47" />
+
+</p>
+<p>
+25.  Under PHP Extentions click “Enable or disable an extension”
+
+</p> 
+<br /> 
+
+<p>
+<img width="1207" height="625" alt="image" src="https://github.com/user-attachments/assets/9cb79c96-6348-4973-8a3e-0ec070b9830f" />
+
+</p>
+<p>
+25.  Enable: php_imap.dll
+Enable: php_intl.dll
+Enable: php_opcache.dll
+
+</p> 
+<br /> 
+
+
+<p>
 <img width="1187" height="637" alt="image" src="https://github.com/user-attachments/assets/e97a2927-30ea-4e94-bd19-49a47212e136" />
 
 </p>
 <p>
-25.  Extract “osTicket-v1.15.8.zip” into “c:\inetpub\wwwroot”.
+25.  Refresh the osTicket site in your browser, observe the changes
 </p> 
 <br /> 
+

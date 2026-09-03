@@ -28,7 +28,7 @@ osTicket is a free, open-source customer support and helpdesk ticketing system f
 
 </p>
 <p>
-1. Log in to Azure and create a virtual machine running Windows 11. If you need a guide on how to create a Virtual Machine, I created a guide for that as well; you can find it here: (https://github.com/paulcorral93/How-to-create-a-Virtual-Machine)
+ 1. Log in to Azure and create a virtual machine running Windows 11. If you need a guide on how to create a Virtual Machine, I created a guide for that as well; you can find it here: (https://github.com/paulcorral93/How-to-create-a-Virtual-Machine)
 </p>
 <br />
 
@@ -37,7 +37,7 @@ osTicket is a free, open-source customer support and helpdesk ticketing system f
 
 </p>
 <p>
-2. Once you have the Virtual Machine created, access it using Remote Desktop. Click the Start menu on your computer and search "Remote Desktop". Run Remote Desktop.
+ 2. Once you have the Virtual Machine created, access it using Remote Desktop. Click the Start menu on your computer and search "Remote Desktop". Run Remote Desktop.
 </p>
 <br />
 
@@ -46,7 +46,7 @@ osTicket is a free, open-source customer support and helpdesk ticketing system f
  
 </p>
 <p>
-3. At the bottom left corner of the window, make sure the "Show Options" is expanded so that you may enter the credentials to access your Virtual Machine. Once the Remote Desktop connects to the Virtual Machine, a window will pop up and ask you for the password.
+ 3. At the bottom left corner of the window, make sure the "Show Options" is expanded so that you may enter the credentials to access your Virtual Machine. Once the Remote Desktop connects to the Virtual Machine, a window will pop up and ask you for the password.
 </p>
 <br />
 
@@ -54,7 +54,7 @@ osTicket is a free, open-source customer support and helpdesk ticketing system f
 <img width="381" height="392" alt="image" src="https://github.com/user-attachments/assets/11a4c809-93e7-4851-9125-9266e0766a8f" />
 </p>
 <p>
-4. Click "Yes" to access your Virtual Machine.
+ 4. Click "Yes" to access your Virtual Machine.
 </p>
 <br />
 
@@ -64,7 +64,7 @@ osTicket is a free, open-source customer support and helpdesk ticketing system f
  https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD 
 </p>
 <p>
-5. Copy the link above into a browser inside the Virtual Machine you created and download the ZIP file; it will have all the installation files you will need ahead.  
+ 5. Copy the link above into a browser inside the Virtual Machine you created and download the ZIP file; it will have all the installation files you will need ahead.  
 </p>
 <br />
 
@@ -73,7 +73,7 @@ osTicket is a free, open-source customer support and helpdesk ticketing system f
 
 </p>
 <p>
-6. Open the Start menu and search for "File Explorer". Once opened, expand the Downloads folder.
+ 6. Open the Start menu and search for "File Explorer". Once opened, expand the Downloads folder.
 </p> 
 <br /> 
 
@@ -82,7 +82,7 @@ osTicket is a free, open-source customer support and helpdesk ticketing system f
 
 </p>
 <p>
-7. We are now going to extract the ZIP folder we downloaded to the desktop. this will make the installtion easier. Right click the ZIP file to bring up the small window and select "Extract All".
+ 7. We are now going to extract the ZIP folder we downloaded to the desktop. this will make the installtion easier. Right click the ZIP file to bring up the small window and select "Extract All".
 </p> 
 <br /> 
 
@@ -91,7 +91,7 @@ osTicket is a free, open-source customer support and helpdesk ticketing system f
 
 </p>
 <p>
-8. Select the "Browse" box.   
+ 8. Select the "Browse" box.   
 </p> 
 <br /> 
 
@@ -100,7 +100,7 @@ osTicket is a free, open-source customer support and helpdesk ticketing system f
 
 </p>
 <p>
-9. Click Desktop on the left side of the window. Click on Select Folder to finalize 
+ 9. Click Desktop on the left side of the window. Click on Select Folder to finalize 
 </p> 
 <br /> 
 
@@ -109,7 +109,7 @@ osTicket is a free, open-source customer support and helpdesk ticketing system f
 
 </p>
 <p>
-10. The files Should now be on your desktop of the Virtual Machine.
+ 10. The files Should now be on your desktop of the Virtual Machine.
 </p> 
 
 <p>
@@ -117,7 +117,7 @@ osTicket is a free, open-source customer support and helpdesk ticketing system f
 
 </p>
 <p>
-11. Next we will install/enable IIS (Internet Information Services) on Windows with CGI on the Virtual Machine. Open the Start menu and search for the "control Panel" and run the program.
+ 11. Next we will install/enable IIS (Internet Information Services) on Windows with CGI on the Virtual Machine. Open the Start menu and search for the "control Panel" and run the program.
 </p> 
 <br /> 
 
@@ -126,7 +126,7 @@ osTicket is a free, open-source customer support and helpdesk ticketing system f
 
 </p>
 <p>
-12. CLick on "Programs" tab.
+ 12. CLick on "Programs" tab.
 </p> 
 <br /> 
 
@@ -135,7 +135,7 @@ osTicket is a free, open-source customer support and helpdesk ticketing system f
 
 </p>
 <p>
-13. Click on "Turn Windows features on/off"
+ 13. Click on "Turn Windows features on/off"
 </p> 
 <br /> 
 
@@ -144,7 +144,7 @@ osTicket is a free, open-source customer support and helpdesk ticketing system f
  
 </p>
 <p>
-14. Make sure the boxes for the following are selected: Select Internet Information Services, Expand Internet Information Services, Expand World Wide Web Services, Expand Application Developement Features, Select CGI. Click "Ok"
+ 14. Make sure the boxes for the following are selected: Select Internet Information Services, Expand Internet Information Services, Expand World Wide Web Services, Expand Application Developement Features, Select CGI. Click "Ok"
 </p> 
 <br /> 
 
@@ -153,7 +153,7 @@ osTicket is a free, open-source customer support and helpdesk ticketing system f
  
 </p>
 <p>
-15. From your Virtual Machine, open the install files that were unzipped to the desktop earlier. The first installation we will run is the PHP Manager for IIS. (PHPManagerForIIS_V1.5.0.msi)
+ 15. From your Virtual Machine, open the install files that were unzipped to the desktop earlier. The first installation we will run is the PHP Manager for IIS. (PHPManagerForIIS_V1.5.0.msi)
 </p> 
 <br /> 
 
@@ -162,7 +162,7 @@ osTicket is a free, open-source customer support and helpdesk ticketing system f
 
 </p>
 <p>
-16. Click "Next".
+ 16. Click "Next".
 </p> 
 <br /> 
 
@@ -171,7 +171,7 @@ osTicket is a free, open-source customer support and helpdesk ticketing system f
 
 </p>
 <p>
-17. Click "I Agree" then "Next"
+ 17. Click "I Agree" then "Next"
 </p> 
 <br /> 
 
@@ -180,7 +180,7 @@ osTicket is a free, open-source customer support and helpdesk ticketing system f
 
 </p>
 <p>
-18. Click "yes".
+ 18. Click "yes".
 </p> 
 <br /> 
 
@@ -189,7 +189,7 @@ osTicket is a free, open-source customer support and helpdesk ticketing system f
 
 </p>
 <p>
-19. Close the window; the installation is done.
+ 19. Close the window; the installation is done.
 </p> 
 <br /> 
 
@@ -198,7 +198,7 @@ osTicket is a free, open-source customer support and helpdesk ticketing system f
 
 </p>
 <p>
-20. Now we will install the Rewrite Module (rewrite_amd64_en-US.msi)
+ 20. Now we will install the Rewrite Module (rewrite_amd64_en-US.msi)
 </p> 
 <br /> 
 
@@ -207,7 +207,7 @@ osTicket is a free, open-source customer support and helpdesk ticketing system f
 
 </p>
 <p>
-21. Click " I accept the terms and conditions" and "Install" to begin the installation. 
+ 21. Click " I accept the terms and conditions" and "Install" to begin the installation. 
 </p> 
 <br /> 
 
@@ -244,7 +244,7 @@ osTicket is a free, open-source customer support and helpdesk ticketing system f
 
 </p>
 <p>
-25. From the “osTicket-Installation-Files” folder in the Virtual Machine. 
+25. From the “osTicket-Installation-Files” folder in the Virtual Machine, we will extract/Unzip (php-7.3.8-nts-Win32-VC15-x86.zip)
 </p> 
 <br /> 
 
@@ -253,7 +253,8 @@ osTicket is a free, open-source customer support and helpdesk ticketing system f
 
 </p>
 <p>
-26. Unzip PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) into the “C:\PHP” folder</p> 
+26. Unzip PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) into the “C:\PHP” folder we just made.
+</p> 
 <br /> 
 
 <p>

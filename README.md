@@ -497,7 +497,7 @@ osTicket is a free, open-source customer support and helpdesk ticketing system f
 
 </p>
 <p>
-25. From the IIS home window, expand the Sites tab, then expand Default Web Site, click on the osTicket folder
+25. From the IIS home window, expand the Sites tab, then expand Default Web Site, and click on the osTicket folder. They are located on the right side of the window.
 
 </p> 
 <br /> 
@@ -664,9 +664,6 @@ osTicket is a free, open-source customer support and helpdesk ticketing system f
 </p>
 <p>
 25. Assign Permissions: Right-click on the "ost-config.php" and click on Properties
-Disable inheritance -> Remove All
-New Permissions -> Everyone -> All
-
 
 </p> 
 <br /> 

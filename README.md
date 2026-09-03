@@ -432,7 +432,7 @@ osTicket is a free, open-source customer support and helpdesk ticketing system f
 
 </p>
 <p>
-25. Click the "..." box to select the right file from the PHP folder located at C:\. 
+25. Click the "..." box to select the right file from the PHP folder located at C:\. Select the PHP folder.
 </p> 
 <br /> 
 
@@ -460,7 +460,7 @@ osTicket is a free, open-source customer support and helpdesk ticketing system f
 
 </p>
 <p>
-25. Open up osTicket-Installation-Files located on the desktop of the Virtual Machine. Within “c:\inetpub\wwwroot”.
+25. Open up osTicket-Installation-Files located on the desktop of the Virtual Machine. Right-click "osTicket-v1.15.8.zip" and click Extract
 </p> 
 <br /> 
 

@@ -342,7 +342,7 @@ osTicket is a free, open-source customer support and helpdesk ticketing system f
 
 </p>
 <p>
-25. Click Finish, but make sure the box for "launch SQL instance configuration wizard" is checked.
+36. Click Finish, but make sure the box for "launch SQL instance configuration wizard" is checked.
 </p> 
 <br /> 
 
@@ -351,7 +351,7 @@ osTicket is a free, open-source customer support and helpdesk ticketing system f
 
 </p>
 <p>
-25. Click Yes.
+37. Click Yes.
 </p> 
 <br /> 
 
@@ -360,7 +360,7 @@ osTicket is a free, open-source customer support and helpdesk ticketing system f
 
 </p>
 <p>
-25. After the configuration window opens, click "Next".
+38. After the configuration window opens, click "Next".
 </p> 
 <br /> 
 
@@ -369,7 +369,7 @@ osTicket is a free, open-source customer support and helpdesk ticketing system f
 
 </p>
 <p>
-25. Select "Standard Configuration"
+39. Select "Standard Configuration"
 </p> 
 <br /> 
 
@@ -378,7 +378,7 @@ osTicket is a free, open-source customer support and helpdesk ticketing system f
 
 </p>
 <p>
-25. Click "Next".
+40. Click "Next".
 </p> 
 <br /> 
 
@@ -387,7 +387,7 @@ osTicket is a free, open-source customer support and helpdesk ticketing system f
 
 </p>
 <p>
-25. Make sure to put in "root" for the password and then click "Next".
+41. Make sure to put in "root" for the password and then click "Next".
 </p> 
 <br /> 
 
@@ -396,7 +396,7 @@ osTicket is a free, open-source customer support and helpdesk ticketing system f
 
 </p>
 <p>
-25. Click "Execute"
+42. Click "Execute"
 </p> 
 <br /> 
 
@@ -405,7 +405,7 @@ osTicket is a free, open-source customer support and helpdesk ticketing system f
 
 </p>
 <p>
-25. Click Start Menu and search for "IIS"; this time, we will open it as Administrator.
+43. Click Start Menu and search for "IIS"; this time, we will open it as Administrator.
 </p> 
 <br /> 
 
@@ -414,7 +414,7 @@ osTicket is a free, open-source customer support and helpdesk ticketing system f
 
 </p>
 <p>
-25. Now register PHP from within IIS. To do this, begin by clicking PHP Manager in IIS. (installed this earlier)  
+44. Now register PHP from within IIS. To do this, begin by clicking PHP Manager in IIS. (installed this earlier)  
 </p> 
 <br /> 
 
@@ -423,7 +423,7 @@ osTicket is a free, open-source customer support and helpdesk ticketing system f
 
 </p>
 <p>
-25. Click "Register new PHP version"
+45. Click "Register new PHP version"
 </p> 
 <br /> 
 
@@ -432,7 +432,7 @@ osTicket is a free, open-source customer support and helpdesk ticketing system f
 
 </p>
 <p>
-25. Click the "..." box to select the right file from the PHP folder located at C:\. Select the PHP folder.
+46. Click the "..." box to select the right file from the PHP folder located at C:\. Select the PHP folder.
 </p> 
 <br /> 
 
@@ -441,7 +441,7 @@ osTicket is a free, open-source customer support and helpdesk ticketing system f
 
 </p>
 <p>
-25. Click "C:\PHP\php-cgi.exe"
+47. Click "C:\PHP\php-cgi.exe"
 </p> 
 <br /> 
 
@@ -451,7 +451,7 @@ osTicket is a free, open-source customer support and helpdesk ticketing system f
 
 </p>
 <p>
-25. Head back to the IIS homepage and on the right side of the window, select "Restart" to apply the changes just made.
+48. Head back to the IIS homepage and on the right side of the window, select "Restart" to apply the changes just made.
 </p> 
 <br /> 
 
@@ -460,7 +460,7 @@ osTicket is a free, open-source customer support and helpdesk ticketing system f
 
 </p>
 <p>
-25. Open up osTicket-Installation-Files located on the desktop of the Virtual Machine. Right-click "osTicket-v1.15.8.zip" and click Extract
+49. Open up osTicket-Installation-Files located on the desktop of the Virtual Machine. Right-click "osTicket-v1.15.8.zip" and click Extract
 </p> 
 <br /> 
 
@@ -469,7 +469,7 @@ osTicket is a free, open-source customer support and helpdesk ticketing system f
 
 </p>
 <p>
-25.  Extract “osTicket-v1.15.8.zip” into “c:\inetpub\wwwroot”.
+50.  Extract “osTicket-v1.15.8.zip” into “c:\inetpub\wwwroot”.
 </p> 
 <br /> 
 
@@ -478,7 +478,7 @@ osTicket is a free, open-source customer support and helpdesk ticketing system f
 
 </p>
 <p>
-25.   Inside “c:\inetpub\wwwroot” rename “upload” to “osTicket”
+51.   Inside “c:\inetpub\wwwroot” rename “upload” to “osTicket”
  
 </p> 
 <br /> 
@@ -488,7 +488,7 @@ osTicket is a free, open-source customer support and helpdesk ticketing system f
 
 </p>
 <p>
-25.  Go back to IIS and restart the program after the files are finished extracting.
+52.  Go back to IIS and restart the program after the files are finished extracting.
 </p> 
 <br /> 
 
@@ -497,7 +497,7 @@ osTicket is a free, open-source customer support and helpdesk ticketing system f
 
 </p>
 <p>
-25. From the IIS home window, expand the Sites tab, then expand Default Web Site, and click on the osTicket folder. They are located on the right side of the window.
+53. From the IIS home window, expand the Sites tab, then expand Default Web Site, and click on the osTicket folder. They are located on the right side of the window.
 
 </p> 
 <br /> 
@@ -507,7 +507,7 @@ osTicket is a free, open-source customer support and helpdesk ticketing system f
 
 </p>
 <p>
-25.  On the right, click “Browse *:80”
+54.  On the right, click “Browse *:80”
 </p> 
 <br /> 
 
@@ -516,7 +516,7 @@ osTicket is a free, open-source customer support and helpdesk ticketing system f
 
 </p>
 <p>
-25.  This should open osTicket in your browser.
+55.  This should open osTicket in your browser.
 </p> 
 <br /> 
 
@@ -525,7 +525,7 @@ osTicket is a free, open-source customer support and helpdesk ticketing system f
 
 </p>
 <p>
-25.  Go back to the IIS home page, expand sites, expand Default, click the osTicket folder
+56.  Go back to the IIS home page, expand sites, expand Default, click the osTicket folder
 
 </p> 
 <br /> 
@@ -536,7 +536,7 @@ osTicket is a free, open-source customer support and helpdesk ticketing system f
 
 </p>
 <p>
-25. Click PHP Manager 
+57. Click PHP Manager 
 
 </p> 
 <br /> 
@@ -546,7 +546,7 @@ osTicket is a free, open-source customer support and helpdesk ticketing system f
 
 </p>
 <p>
-25.  Under PHP Extensions, click “Enable or disable an extension”
+58.  Under PHP Extensions, click “Enable or disable an extension”
 
 </p> 
 <br /> 
@@ -556,7 +556,7 @@ osTicket is a free, open-source customer support and helpdesk ticketing system f
 
 </p>
 <p>
-25.  Click php_imap.dll; on the right side of the window, click Enable 
+59.  Click php_imap.dll; on the right side of the window, click Enable 
 
 
 </p> 
@@ -567,7 +567,7 @@ osTicket is a free, open-source customer support and helpdesk ticketing system f
 
 </p>
 <p>
-25. Click php_intl.dll; on the right side of the window, click Enable 
+60. Click php_intl.dll; on the right side of the window, click Enable 
 
 
 </p> 
@@ -579,7 +579,7 @@ osTicket is a free, open-source customer support and helpdesk ticketing system f
 
 </p>
 <p>
-25.  Click php_opcache.dll; on the right side of the window, click Enable
+70.  Click php_opcache.dll; on the right side of the window, click Enable
 
 </p> 
 <br /> 
@@ -590,7 +590,7 @@ osTicket is a free, open-source customer support and helpdesk ticketing system f
 
 </p>
 <p>
-25. Refresh IIS for the home window 
+80. Refresh IIS for the home window 
 
 </p> 
 <br /> 
@@ -602,7 +602,7 @@ osTicket is a free, open-source customer support and helpdesk ticketing system f
 
 </p>
 <p>
-25.  Refresh the osTicket site in your browser, and observe the changes
+81.  Refresh the osTicket site in your browser, and observe the changes
  
 </p> 
 <br /> 
@@ -612,7 +612,7 @@ osTicket is a free, open-source customer support and helpdesk ticketing system f
 
 </p>
 <p>
-25. Using File Explorer, open the inetpub folder in Windows (C:)
+82. Using File Explorer, open the inetpub folder in Windows (C:)
 
 </p> 
 <br /> 
@@ -621,7 +621,7 @@ osTicket is a free, open-source customer support and helpdesk ticketing system f
 
 </p>
 <p>
-25.  Open the wwwroot folder
+83.  Open the wwwroot folder
 
 
 </p> 
@@ -632,7 +632,7 @@ osTicket is a free, open-source customer support and helpdesk ticketing system f
 
 </p>
 <p>
-25. Open the osTicket Folder.
+84. Open the osTicket Folder.
 
 </p> 
 <br /> 
@@ -642,7 +642,7 @@ osTicket is a free, open-source customer support and helpdesk ticketing system f
 
 </p>
 <p>
-25. Open the include folder 
+85. Open the include folder 
 
 </p> 
 <br /> 
@@ -653,7 +653,7 @@ osTicket is a free, open-source customer support and helpdesk ticketing system f
 
 </p>
 <p>
-25. Rename the "ost-sampleconfig.php" file to "ost-config.php"
+86. Rename the "ost-sampleconfig.php" file to "ost-config.php"
 
 </p> 
 <br /> 
@@ -663,7 +663,7 @@ osTicket is a free, open-source customer support and helpdesk ticketing system f
 
 </p>
 <p>
-25. Assign Permissions: Right-click on the "ost-config.php" and click on Properties
+87. Assign Permissions: Right-click on the "ost-config.php" and click on Properties
 
 </p> 
 <br /> 
@@ -673,7 +673,7 @@ osTicket is a free, open-source customer support and helpdesk ticketing system f
 
 </p>
 <p>
-25. Click on the Security tab and click on Advanced in the bottom right corner 
+88. Click on the Security tab and click on Advanced in the bottom right corner 
 
 </p> 
 <br /> 
@@ -684,7 +684,7 @@ osTicket is a free, open-source customer support and helpdesk ticketing system f
 
 </p>
 <p>
-25. Click Change permissions in the bottom left corner
+89. Click Change permissions in the bottom left corner
 
 </p> 
 <br /> 
@@ -694,7 +694,7 @@ osTicket is a free, open-source customer support and helpdesk ticketing system f
 
 </p>
 <p>
-25. Click on Disable inheritance 
+90. Click on Disable inheritance 
 
 </p> 
 <br /> 
@@ -704,7 +704,7 @@ osTicket is a free, open-source customer support and helpdesk ticketing system f
 
 </p>
 <p>
-25. Click Remove all inherited permissions from this object
+91. Click Remove all inherited permissions from this object
 
 </p> 
 <br /> 
@@ -714,7 +714,7 @@ osTicket is a free, open-source customer support and helpdesk ticketing system f
 
 </p>
 <p>
-25. Click on Add
+92. Click on Add
 
 </p> 
 <br /> 
@@ -724,7 +724,7 @@ osTicket is a free, open-source customer support and helpdesk ticketing system f
 
 </p>
 <p>
-25. Click Select a principle 
+93. Click Select a principle 
 
 </p> 
 <br /> 
@@ -734,7 +734,7 @@ osTicket is a free, open-source customer support and helpdesk ticketing system f
 
 </p>
 <p>
-25. In the "Enter the object name to select" type "Everyone" and click ok
+94. In the "Enter the object name to select" type "Everyone" and click ok
  
 </p> 
 <br /> 
@@ -744,7 +744,7 @@ osTicket is a free, open-source customer support and helpdesk ticketing system f
 
 </p>
 <p>
-25. Click the full control box and then ok
+95. Click the full control box and then ok
  
 </p> 
 <br /> 
@@ -754,7 +754,7 @@ osTicket is a free, open-source customer support and helpdesk ticketing system f
 
 </p>
 <p>
-25. Click Apply, then Ok
+96. Click Apply, then Ok
  
 </p> 
 <br /> 
@@ -764,7 +764,7 @@ osTicket is a free, open-source customer support and helpdesk ticketing system f
 
 </p>
 <p>
-25. Go back to osTicket browser and click Continue
+97. Go back to osTicket browser and click Continue
  
 </p> 
 <br /> 
@@ -774,7 +774,7 @@ osTicket is a free, open-source customer support and helpdesk ticketing system f
 
 </p>
 <p>
-25. This page is just your basic setup; you can name the help desk and designate an email to direct the tickets to. You can also input credentials for the Admin user
+98. This page is just your basic setup; you can name the help desk and designate an email to direct the tickets to. You can also input credentials for the Admin user
  
 </p> 
 <br /> 
@@ -784,7 +784,7 @@ osTicket is a free, open-source customer support and helpdesk ticketing system f
 
 </p>
 <p>
-25. Before entering the credentials for the Database Settings, create a database specific to osTicket using HediSLQ.
+99. Before entering the credentials for the Database Settings, create a database specific to osTicket using HediSLQ.
  
 </p> 
 <br /> 
@@ -794,7 +794,7 @@ osTicket is a free, open-source customer support and helpdesk ticketing system f
 
 </p>
 <p>
-25. Open the installation files folder on the Virtual Machine and run the HediSLQ installation
+100. Open the installation files folder on the Virtual Machine and run the HediSLQ installation
  
 </p> 
 <br /> 
@@ -804,7 +804,7 @@ osTicket is a free, open-source customer support and helpdesk ticketing system f
 
 </p>
 <p>
-25. Click Yes
+102. Click Yes
  
 </p> 
 <br /> 
@@ -814,7 +814,7 @@ osTicket is a free, open-source customer support and helpdesk ticketing system f
 
 </p>
 <p>
-25. Click I Accept and next
+103. Click I Accept and next
  
 </p> 
 <br /> 
@@ -824,7 +824,7 @@ osTicket is a free, open-source customer support and helpdesk ticketing system f
 
 </p>
 <p>
-25. Click Next until you can finally install
+104. Click Next until you can finally install
  
 </p> 
 <br /> 
@@ -834,7 +834,7 @@ osTicket is a free, open-source customer support and helpdesk ticketing system f
 
 </p>
 <p>
-25. Click Finish and Skip the donate page
+105. Click Finish and Skip the donate page
  
 </p> 
 <br /> 
@@ -844,7 +844,7 @@ osTicket is a free, open-source customer support and helpdesk ticketing system f
 
 </p>
 <p>
-25. Open HeidiSQL and create a new session
+106. Open HeidiSQL and create a new session
 
 
  
@@ -856,7 +856,7 @@ osTicket is a free, open-source customer support and helpdesk ticketing system f
 
 </p>
 <p>
-25.  Username should be root, and make the password root as well then click Open
+107.  Username should be root, and make the password root as well, then click Open
  
 </p> 
 <br /> 
@@ -866,7 +866,7 @@ osTicket is a free, open-source customer support and helpdesk ticketing system f
 
 </p>
 <p>
-25. This will connect to the session; in this window, you will create a database for osTicket.
+108. This will connect to the session; in this window, you will create a database for osTicket.
  
 </p> 
 <br /> 
@@ -876,7 +876,7 @@ osTicket is a free, open-source customer support and helpdesk ticketing system f
 
 </p>
 <p>
-25. Right-click on Unnamed on the left side of the window and create a database called “osTicket”; it has to be exact
+109. Right-click on Unnamed on the left side of the window and create a database called “osTicket”; it has to be exact
  
 </p> 
 <br /> 
@@ -886,7 +886,7 @@ osTicket is a free, open-source customer support and helpdesk ticketing system f
 
 </p>
 <p>
-25. Type "osTicket" for the name and then Ok
+109. Type "osTicket" for the name and then Ok
  
 </p> 
 <br /> 
@@ -896,7 +896,7 @@ osTicket is a free, open-source customer support and helpdesk ticketing system f
 
 </p>
 <p>
-25. osTicket should now be operational
+110. osTicket should now be operational
  
 </p> 
 <br /> 
@@ -906,7 +906,7 @@ osTicket is a free, open-source customer support and helpdesk ticketing system f
 
 </p>
 <p>
-25. This page is to log into osTicket as an admin: http://localhost/osTicket/scp/login.php
+111. This page is to log into osTicket as an admin: http://localhost/osTicket/scp/login.php
  
 </p> 
 <br /> 
@@ -916,7 +916,7 @@ osTicket is a free, open-source customer support and helpdesk ticketing system f
 
 </p>
 <p>
-25. This site will be where Users can send tickets to the osticket system: http://localhost/osTicket/
+112. This site will be where Users can send tickets to the osticket system: http://localhost/osTicket/
  
 </p> 
 <br /> 
